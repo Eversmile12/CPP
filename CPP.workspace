@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPP" Database="" Version="10000">
+  <Project Name="UdemyCpp" Path="UdemyCpp/UdemyCpp.project" Active="No"/>
+  <Project Name="vectors" Path="vectors/vectors.project" Active="No"/>
+  <Project Name="OperatorsChallenge" Path="OperatorsChallenge/OperatorsChallenge.project" Active="No"/>
+  <Project Name="StatementAndOperators" Path="StatementAndOperators/StatementAndOperators.project" Active="No"/>
+  <Project Name="ControlFlowChallenge" Path="ControlFlowChallenge/ControlFlowChallenge.project" Active="No"/>
+  <Project Name="CStyleStrings" Path="CStyleStrings/CStyleStrings.project" Active="No"/>
+  <Project Name="CppStyleStrings" Path="CppStyleStrings/CppStyleStrings.project" Active="No"/>
+  <Project Name="CypherCreator" Path="CypherCreator/CypherCreator.project" Active="No"/>
+  <Project Name="LetterPyramid" Path="LetterPyramid/LetterPyramid.project" Active="No"/>
+  <Project Name="CppFunctions" Path="CppFunctions/CppFunctions.project" Active="No"/>
+  <Project Name="pointersChallenge" Path="pointersChallenge/pointersChallenge.project" Active="No"/>
+  <Project Name="OOP_Part_one" Path="OOP_Part_one/OOP_Part_one.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UdemyCpp" ConfigName="Debug"/>
+      <Project Name="basicIO" ConfigName="Debug"/>
+      <Project Name="vectors" ConfigName="Debug"/>
+      <Project Name="OperatorsChallenge" ConfigName="Debug"/>
+      <Project Name="StatementAndOperators" ConfigName="Debug"/>
+      <Project Name="ControlFlowChallenge" ConfigName="Debug"/>
+      <Project Name="CStyleStrings" ConfigName="Debug"/>
+      <Project Name="CppStyleStrings" ConfigName="Debug"/>
+      <Project Name="CypherCreator" ConfigName="Debug"/>
+      <Project Name="LetterPyramid" ConfigName="Debug"/>
+      <Project Name="CppFunctions" ConfigName="Debug"/>
+      <Project Name="pointersChallenge" ConfigName="Debug"/>
+      <Project Name="OOP_Part_one" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="UdemyCpp" ConfigName="Release"/>
+      <Project Name="basicIO" ConfigName="Release"/>
+      <Project Name="vectors" ConfigName="Release"/>
+      <Project Name="OperatorsChallenge" ConfigName="Release"/>
+      <Project Name="StatementAndOperators" ConfigName="Release"/>
+      <Project Name="ControlFlowChallenge" ConfigName="Release"/>
+      <Project Name="CStyleStrings" ConfigName="Release"/>
+      <Project Name="CppStyleStrings" ConfigName="Release"/>
+      <Project Name="CypherCreator" ConfigName="Release"/>
+      <Project Name="LetterPyramid" ConfigName="Release"/>
+      <Project Name="CppFunctions" ConfigName="Release"/>
+      <Project Name="pointersChallenge" ConfigName="Release"/>
+      <Project Name="OOP_Part_one" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
